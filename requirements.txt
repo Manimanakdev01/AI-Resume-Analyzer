@@ -6,3 +6,4 @@ datetime
 google-genai
 plotly
 pandas
+collections
