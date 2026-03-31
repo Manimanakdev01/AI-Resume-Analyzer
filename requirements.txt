@@ -3,7 +3,7 @@ PyPDF2
 json
 re
 datetime
-google-genai
+
 plotly
 pandas
 collections
